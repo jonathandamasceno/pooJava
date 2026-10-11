@@ -1,3 +1,4 @@
+package lista1q1;
 public class Main {
     public static void main(String[] args){
         Contact contato = new Contact("Jonathan", "(XX) X XXXX-XXXX", "email@email.com");

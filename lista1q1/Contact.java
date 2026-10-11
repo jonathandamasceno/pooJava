@@ -1,4 +1,4 @@
-// Lista 1 questão 1
+package lista1q1;
 public class Contact 
 {
 
